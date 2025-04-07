@@ -1,8 +1,84 @@
 {
-  "projectName": "מסעדה-ביתא-692",
-  "businessName": "מסעדה ביתא",
-  "created": "2025-04-07T21:18:12.449Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-07T21:21:14.127Z",
+  "status": {
+    "totalComponents": 12,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "RTL header with logo, navigation, and mobile menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with headline, description, and prominent CTA for a restaurant"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL about section highlighting the restaurant's experience and expertise"
+    },
+    {
+      "name": "MenuSection",
+      "type": "products",
+      "status": "pending",
+      "description": "RTL product showcase section displaying the restaurant's menu items"
+    },
+    {
+      "name": "HealthFocusSection",
+      "type": "feature",
+      "status": "pending",
+      "description": "RTL section highlighting the restaurant's health-focused approach"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL services section highlighting the restaurant's offerings"
+    },
+    {
+      "name": "SpecialOffersSection",
+      "type": "promotion",
+      "status": "pending",
+      "description": "RTL section showcasing special offers and promotions"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "RTL gallery section showcasing the restaurant's ambiance and dishes"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "RTL booking system for restaurant reservations"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "RTL FAQ section addressing common customer questions"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL contact section with form and business information"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL footer with navigation, social links, and legal information"
+    }
+  ],
+  "repoName": "webis-site-msadh-byta-1744060692396"
 }
