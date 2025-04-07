@@ -1,0 +1,6 @@
+# robots.txt for מסעדה ביתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://מסעדה-ביתא.com/sitemap.xml
