@@ -1,8 +1,37 @@
 {
   "projectName": "מסעדה-ביתא-692",
   "businessName": "מסעדה ביתא",
-  "created": "2025-04-07T21:18:12.449Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מסעדה מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-07T21:18:37.529Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-msadh-byta-1744060692396",
+  "formData": {
+    "businessName": "מסעדה ביתא",
+    "businessType": "מסעדה",
+    "industry": "בריאות",
+    "businessSize": "medium",
+    "description": "אנחנו מסעדה מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#FF6B6B",
+    "secondaryColor": "#588C7E",
+    "typographyStyle": "minimal",
+    "animationPreference": "minimal",
+    "headline": "מסעדה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": true,
+    "metaDescription": "מסעדה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מסעדה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism",
+      "corporate"
+    ]
+  }
 }
