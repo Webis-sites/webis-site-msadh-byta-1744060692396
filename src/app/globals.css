@@ -8,6 +8,8 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #FF6B6B;
   --secondary-color: #588C7E;
+
+  --transition-speed: 0.3s;
 }
 
 html {
