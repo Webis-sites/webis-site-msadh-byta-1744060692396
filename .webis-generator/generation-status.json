@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-07T21:29:59.874Z",
+  "projectDir": "מסעדה-ביתא-692",
   "status": {
     "totalComponents": 12,
-    "completedComponents": 11,
+    "completedComponents": 12,
     "failedComponents": 0,
-    "progress": 92
+    "progress": 100
   },
   "components": [
     {
@@ -76,9 +76,14 @@
     {
       "name": "Footer",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "RTL footer with navigation, social links, and legal information"
     }
   ],
-  "repoName": "webis-site-msadh-byta-1744060692396"
+  "tokenUsage": {
+    "totalInputTokens": 16724,
+    "totalOutputTokens": 31766,
+    "totalTokens": 48490,
+    "requests": 13
+  }
 }
