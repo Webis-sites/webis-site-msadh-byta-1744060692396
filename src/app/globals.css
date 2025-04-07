@@ -25,6 +25,8 @@
   --animation-duration: 0.3s;
   --gallery-text-color: #333333;
   --gallery-bg-color: #f9f9f9;
+
+  --font-family-primary: 'Heebo', 'Rubik', sans-serif;
 }
 
 html {
