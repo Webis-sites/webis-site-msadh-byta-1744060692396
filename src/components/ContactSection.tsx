@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FaPhone, FaEnvelope, FaClock, FaMapMarkerAlt } from 'react-icons/fa';
 import { useForm } from 'react-hook-form';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 
 
 // Make sure to place these images in your public/images folder
@@ -129,22 +128,7 @@ const ContactSection: React.FC = () => {
             
             {/* Map */}
             <div className="h-80 rounded-lg overflow-hidden shadow-lg">
-              <MapContainer 
-                center={position} 
-                zoom={15} 
-                style={{ height: '100%', width: '100%' }}
-                scrollWheelZoom={false}
-              >
-                <TileLayer
-                  attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                  url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                />
-                <Marker position={position}>
-                  <Popup>
-                    מסעדה ביתא <br /> רחוב אלנבי 123, תל אביב
-                  </Popup>
-                </Marker>
-              </MapContainer>
+                
             </div>
           </motion.div>
           
