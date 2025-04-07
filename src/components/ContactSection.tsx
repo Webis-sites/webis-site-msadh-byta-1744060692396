@@ -5,8 +5,6 @@ import { motion } from 'framer-motion';
 import { FaPhone, FaEnvelope, FaClock, FaMapMarkerAlt } from 'react-icons/fa';
 import { useForm } from 'react-hook-form';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
-import L from 'leaflet';
 
 // Fix for default marker icon in Leaflet with Next.js
 // This is needed because Leaflet's default marker icons have issues with webpack
